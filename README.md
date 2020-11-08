@@ -48,8 +48,6 @@
 
 - Performance: The list is a bit laggy, it would benefit from using a virtual DOM list, for instance using React Virtualized
 
-- Error management: While our test app loads things quickly and without error, on a real app we would need to use the loading and error fields provided by React Query
-
 - UX: Display more entities on the map using react-leaflet-markercluster like Hivebrite?
 
 ## Installation
